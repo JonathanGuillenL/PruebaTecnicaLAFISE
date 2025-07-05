@@ -35,4 +35,4 @@ Ejecute el proyecto con el siguiente comando:
 dotnet run
 ```
 
-Luego acceda al la URL (http://localhost:5096/swagger)[http://localhost:5096/swagger]
+Luego acceda al la URL [http://localhost:5096/swagger](http://localhost:5096/swagger)
